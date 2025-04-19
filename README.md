@@ -18,7 +18,7 @@
 This open source library for the Spotify Web API provides an easy to use interface for .NET based languages, like C# and VisualBasic .NET. By using it you can query general spotify catalog information (tracks, albums and playlists), manage user-related content ("My Library", create and edit playlists) and control the users music players (play, stop, transfer playback, play specific track).
 
 ### Features
-
+fgnj
 
 * ✅ Typed responses and requests to over 74 endpoints. Complete and always up to date.
 * ✅ Supports `.NET Standard 2.X`, which includes all major platforms, including mobile:
